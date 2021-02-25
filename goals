@@ -56,7 +56,7 @@ bingoList[8] = [
 { name: "16 Pianta Blues"},
 { name: "2 Rocket Nozzles"},
 { name: "4 Unique Bosses"},
-{ name: "4 from Pianta"},
+{ name: "4 Shines from Pianta"},
 { name: "100 Coin Shine from Gelato"}
 ];
 bingoList[9] = [
@@ -88,7 +88,7 @@ bingoList[12] = [
 { name: "5 Bosses"}
 ];
 bingoList[13] = [
-{ name: "6 from Pinna"},
+{ name: "6 Shines from Pinna"},
 { name: "Pinna 5 from the back Hoverless"},
 { name: "Pinna Shadow Mario"},
 { name: "1 Hidden Shine in Pianta"},
@@ -111,8 +111,8 @@ bingoList[15] = [
 bingoList[16] = [
 { name: "7 Blue Birds"},
 { name: "1 Butterfly (No Pinna)"},
-{ name: "4 from Gelato"},
-{ name: "16 Noki Blues OR 5 from Gelato"},
+{ name: "4 Shines from Gelato"},
+{ name: "16 Noki Blues OR 5 Shines from Gelato"},
 { name: "3 Rocket Nozzles"}
 ];
 bingoList[17] = [
